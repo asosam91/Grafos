@@ -1,6 +1,7 @@
+from . import grafos
 from setuptools import setup
 from setuptools import find_packages
-import grafos
+
 
 setup(name="Grafos",  # Nombre
       version="0.1",  # Versión de desarrollo
