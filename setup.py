@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 version = '1.0.1'
 
 
-setup(name="Libreria IA",  # Nombre
+setup(name="Grafos1",  # Nombre
       version=version,  # Versión de desarrollo
       description="Paquete para Grafos",  # Descripción del funcionamiento
       author="Adriano Sokax",  # Nombre del autor
