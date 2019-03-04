@@ -1,6 +1,4 @@
 from . import *
-import math
-import numpy as np 
 from setuptools import setup
 from setuptools import find_packages
 
