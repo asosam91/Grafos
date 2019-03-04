@@ -1,4 +1,4 @@
-#import math
+import math
 
 class Nodo:
 	## este es el constructor donde se definen las variables privadas
