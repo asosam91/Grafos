@@ -1,8 +1,9 @@
 from setuptools import setup
 from setuptools import find_packages
+import grafos
 from . import *
 
-setup(name="Grafos",  # Nombre
+setup(name="Libreria IA",  # Nombre
       version="0.1",  # Versión de desarrollo
       description="Paquete para Grafos",  # Descripción del funcionamiento
       author="Adriano Sokax",  # Nombre del autor
