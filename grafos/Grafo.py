@@ -19,4 +19,4 @@ class Grafo:
 		return self.__adyacencia
 
 	def print(self):
-		return __str__()
+		return self.__adyacencia
