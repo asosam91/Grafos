@@ -9,5 +9,5 @@ setup(name="Libreria IA",  # Nombre
       author_email='asosam91@gmail.com',  # Email del autor
  #     license="GPL",  # Licencia: MIT, GPL, GPL 2.0...
  #     url="http://ejemplo.com",  # Página oficial (si la hay)
-      packages=find_packages(),
+      packages =  ['grafos'],
 )
