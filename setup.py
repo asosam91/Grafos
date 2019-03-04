@@ -1,5 +1,6 @@
 #import grafos 
 from . import *
+import math
 from setuptools import setup
 from setuptools import find_packages
 
@@ -12,4 +13,5 @@ setup(name="Grafos",  # Nombre
  #     license="GPL",  # Licencia: MIT, GPL, GPL 2.0...
  #     url="http://ejemplo.com",  # Página oficial (si la hay)
       packages=find_packages(),
+      reqires = math,
 )
