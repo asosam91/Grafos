@@ -1,4 +1,4 @@
-from . import *
+import Grafos
 from setuptools import setup
 from setuptools import find_packages
 
