@@ -1,6 +1,7 @@
-#import grafos 
-#from . import *
-#from grafos.util import *
+import grafos 
+from grafos.util import *
+from . import *
+
 import math
 import numpy as np 
 from setuptools import setup
