@@ -15,5 +15,5 @@ class Grafo:
 		self.__adyacencia[nodo1][nodo2] = 0
 		self.__adyacencia[nodo2][nodo1] = 0
 
-	def getGrafo(self):
+	def __str__(self):
 		return self.__adyacencia
