@@ -1,5 +1,5 @@
-import grafos 
-from grafos.util import *
+#import grafos 
+from . import *
 from setuptools import setup
 from setuptools import find_packages
 
