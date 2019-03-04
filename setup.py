@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
-version = '1.0.1'
+version = '1.0.15'
 
 
-setup(name="Grafos1",  # Nombre
+setup(name="Grafos",  # Nombre
       version=version,  # Versión de desarrollo
       description="Paquete para Grafos",  # Descripción del funcionamiento
       author="Adrian Sosa",  # Nombre del autor
