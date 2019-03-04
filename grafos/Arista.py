@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 class Arista:
 	def __init__(self, kn1, kn2, cost):
 		self.__keyN1 = kn1
