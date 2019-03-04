@@ -1,4 +1,6 @@
-from util import *
+from grafos.util import *
+
+
 
 a= Nodo("abc")
 
